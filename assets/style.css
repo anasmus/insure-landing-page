@@ -139,7 +139,7 @@ a {
   position: absolute;
 }
 .main__bg--right {
-  left: calc(100vw - 174px);
+  left: calc(100vw - 130px);
   bottom: -165px;
 }
 .main__bg--left {
